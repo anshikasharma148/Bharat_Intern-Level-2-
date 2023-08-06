@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(170, 22, 150);
+}
+#convert{
+    font-size: 25px;
+    padding: 8px 25px;
+    border: 2px solid #111; 
+    background: rgb(45, 109, 172);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#convert:hover{
+    color: #fff;
+    background: none;
+}
+#reset{
+    font-size: 25px;
+    padding: 8px 25px;
+    border: 2px solid #111; 
+    background: indianred;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#reset:hover{
+    color: #fff;
+    background: none;
+}
+h1{
+    margin-top: 10%;
+    font-family: sans-serif;
+    color: #111;
+    letter-spacing: 2px;
+}
+input{
+    display: block;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 10px;
+    font-size: 1em;
+    color: #131212;
+}
